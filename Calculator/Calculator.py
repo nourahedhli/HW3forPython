@@ -11,3 +11,6 @@ class Calculator:
 
     def multiplication(self, a, b):
         return a * b
+
+    def divison (self, a,b):
+        return a/b
