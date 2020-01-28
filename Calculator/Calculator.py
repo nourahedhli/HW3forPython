@@ -1,3 +1,6 @@
+import math
+
+
 class Calculator:
 
     def __init__(self):
@@ -14,3 +17,10 @@ class Calculator:
 
     def divison (self, a,b):
         return a/b
+
+    def square_root (self,a):
+
+        return math.sqrt(a)
+
+    def square (self,a):
+        return a ** 2

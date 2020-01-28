@@ -29,6 +29,16 @@ class MyTestCase(unittest.TestCase):
         result= calculator.divison(2,2)
         self.assertEqual(1,result)
 
+    def test_calculator_squareRoot(self):
+        calculator = Calculator()
+        result = calculator.square_root(9)
+        self.assertEqual(3,result)
+
+    def test_calculator_square (self):
+        calculator = Calculator()
+        result = calculator.square(2)
+        self.assertEqual(4,result)
+
 
 
 if __name__ == '__main__':
