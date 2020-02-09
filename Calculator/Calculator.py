@@ -8,6 +8,7 @@ from MathOperations.exponentiation import Exponent
 from MathOperations.nthroot import nthRoot
 from MathOperations.log import Log
 
+
 class Calculator:
     Result = 0
 
@@ -33,11 +34,11 @@ class Calculator:
     def Power(self, a, b):
         self.Result = Exponent.power(a, b)
         return self.Result
-    def Root (self,a,b):
-        self.Result=nthRoot.NthRoot(a,b)
+
+    def Root(self, a, b):
+        self.Result = nthRoot.NthRoot(a, b)
         return self.Result
 
-    def Log (self,a,b):
-        self.Result= Log.logarithm(a,b)
+    def Log(self, a, b):
+        self.Result = Log.logarithm(a, b)
         return self.Result
-
