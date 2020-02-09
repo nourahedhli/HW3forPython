@@ -1,5 +1,5 @@
 class nthRoot:
 
     @staticmethod
-    def NthRoot(a, b):
-        return a ** (1 / b)
+    def NthRoot(degree, rad):
+        return rad ** (1 / degree)
