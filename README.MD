@@ -11,5 +11,5 @@ and class addition encapsulate these objects. In order to use those methods, we 
 
 https://github.com/nourahedhli/pythonHW3/blob/DocumentUpdates/MathOperations/additon.py
 
-Example of Encapsulation  ^^ 
+Example of Encapsulation  ^^^
 
