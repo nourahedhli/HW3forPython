@@ -42,7 +42,7 @@ https://github.com/nourahedhli/HW3forPython/blob/DocumentUpdates/Calculator/Calc
 #### Example of Inheritance ^^^
 
 
-##Polymorphism
+## Polymorphism
 Polymorphism is when you name two methods with the same name, but they have different
 parameters. The program will know which one to use depending on the parameters that was given.
 
