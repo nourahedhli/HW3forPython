@@ -3,7 +3,7 @@
 # Homework: Explain Object Oriented Programming Using Python
 ## Encapsulation
 
-## 
+
 Encapsulation means that there many methods or objects inside a class.
 Like here for Example we class addition that has many methods inside of it
 and class addition encapsulate these objects. In order to use those methods, we have to call/import those classes to use the methods.
@@ -12,6 +12,7 @@ and class addition encapsulate these objects. In order to use those methods, we 
 https://github.com/nourahedhli/pythonHW3/blob/DocumentUpdates/MathOperations/additon.py
 
 #### Example of Encapsulation  ^^^
+##
 
 ## Abstraction
 
@@ -27,7 +28,7 @@ I use it, I can do the sum of these two numbers.
 https://github.com/nourahedhli/HW3forPython/blob/DocumentUpdates/Calculator/Calculator.py
 
 #### Example of Abstraction ^^^
-
+##
 ## Inheritance 
 
 Inheritance in any Object Ordinated programming language is like the parent class. Where you get to use
@@ -41,7 +42,7 @@ Here in this example we are using sum to add two numbers.
 https://github.com/nourahedhli/HW3forPython/blob/DocumentUpdates/Calculator/Calculator.py
 #### Example of Inheritance ^^^
 
-
+##
 ## Polymorphism
 Polymorphism is when you name two methods with the same name, but they have different
 parameters. The program will know which one to use depending on the parameters that was given.
