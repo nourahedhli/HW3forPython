@@ -9,7 +9,7 @@ Like here for Example we class addition that has many methods inside of it
 and class addition encapsulate these objects. In order to use those methods, we have to call/import those classes to use the methods.
 
 
-https://github.com/nourahedhli/pythonHW3/blob/DocumentUpdates/MathOperations/additon.py
+https://github.com/nourahedhli/HW3forPython/blob/DocumentUpdates/MathOperations/additon.py
 
 #### Example of Encapsulation  ^^^
 ##
